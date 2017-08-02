@@ -1,0 +1,1 @@
+https://github.com/joizel/ctf_writeup/blob/master/docs/web/RFI/[wechall]%20Warchall_Live%20RFI.rst
