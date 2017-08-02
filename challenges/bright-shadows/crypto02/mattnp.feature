@@ -1,6 +1,6 @@
 # language: es
 
-Característica: Resolver reto Herder but possible
+Característica: Resolver reto Harder but possible
   Del sitio http://www.bright-shadows.net/
   De la categoría Crypto
   Con mi usuario mattnp
@@ -19,7 +19,7 @@ Característica: Resolver reto Herder but possible
     Entonces no resuelvo el reto
     Pero concluyo que se trata de un cifrado por sustitución
 
-  Escenario: Segundo intento fallido
+  Escenario: Solución exitosa
     Dado que estoy autenticado con mi usuario mattnp
     Cuando encuentro una herramienta para decodificar cifrado por substitución
     Y encuentro un texto que tiene sentido
