@@ -1,8 +1,8 @@
 # language: es
 
-Característica: Resolver reto una pequeña adivinanza
+CaracterÃ­stica: Resolver reto una pequeÃ±a adivinanza
   Del sitio world of wargame
-  De la categoría Steganos
+  De la categorÃ­a Steganos
   Con mi usuario sterben
 
   Antecedentes:
@@ -10,7 +10,7 @@ Característica: Resolver reto una pequeña adivinanza
     Y tengo el sistema operativo Windows 10
     Y tengo acceso a internet
 
-  Escenario: Solución exitosa
+  Escenario: SoluciÃ³n exitosa
     Dado que es una imagen procedo a descargarla
     Entonces abro la imagen con un bloc de notas
     Y encuentro letras que tienen sentido
