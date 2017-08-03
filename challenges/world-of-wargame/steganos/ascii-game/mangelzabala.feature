@@ -1,8 +1,8 @@
 # language: es
 
-Característica: Resolver reto ascii Game
+CaracterÃ­stica: Resolver reto ascii Game
   Del sitio world of wargame
-  De la categoría Steganos
+  De la categorÃ­a Steganos
   Con mi usuario sterben
 
   Antecedentes:
@@ -19,7 +19,7 @@ Característica: Resolver reto ascii Game
     Pero concluyo que el enunciado indica una frase secreta
     Entonces concluyo no puede ser tan obvio
 
-  Escenario: Solución exitosa
+  Escenario: SoluciÃ³n exitosa
     Dado que no es clara el texto en la parte inferior izquierda
     Entonces analizo minuciosamente la imagen linea por linea
     Y encuentro caracteres con sentido en la linea 102
