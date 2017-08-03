@@ -1,0 +1,19 @@
+# language: es
+
+Característica: Resolver reto escultura criptografica
+  Del sitio world of wargame
+  De la categoría reconoce la imagen
+  Con mi usuario sterben
+
+  Antecedentes:
+    Dado estoy registrado en el sitio world of wargame
+    Y tengo el sistema operativo Windows 10
+    Y tengo acceso a internet
+
+  Escenario: Solución exitosa
+    Dado que es una imagen procedo a descargarla
+    Entonces la imagen es muy pequeña para poder buscarla en google
+    Entonces maximiso la imagen y tomo una captura de pantalla
+    Y realizo el recorte de la imagen
+    Entonces realizo la busqueda de google
+    Entonces resuelvo el reto
