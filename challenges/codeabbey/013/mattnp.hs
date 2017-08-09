@@ -13,7 +13,7 @@ printList (x:xs) = do
   printList xs
 
 wsd :: Integer -> String
-wsd x = show $ (wsdD x) (digitCount x)
+wsd x = show $ wsdD x (digitCount x)
 
 wsdD :: (Integral a) => a -> a -> a
 wsdD n d
