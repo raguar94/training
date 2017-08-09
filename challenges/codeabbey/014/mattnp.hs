@@ -9,7 +9,7 @@ modularCalculator (a:op:x:xs) = do
   let aI = read a :: Int
   let xI = read x :: Int
   let txs = read (last xs) :: Int
-  modularCalculator ((operate aI xI op txs) : xs)
+  modularCalculator (operate aI xI op txs : xs)
 
 operate :: Int -> Int -> String -> Int -> String
 operate a x op txs
