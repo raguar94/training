@@ -1,8 +1,8 @@
 main = do
   n <- getLine
   array <- getLine
-  let xs = map read (words array) :: [Integer]
-  print (arrayCheckSum xs)
+  let xs = map read $ words array :: [Integer]
+  print $ arrayCheckSum xs
 
 arrayCheckSum :: [Integer] -> Integer
 arrayCheckSum [] = 0
