@@ -1,5 +1,3 @@
-import Data.List
-
 main = do
   n <- readLn :: IO Int
   readRandoms n
