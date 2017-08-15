@@ -14,5 +14,4 @@ readArrays n = do
   readArrays (n-1)
 
 medianOfThree :: [Int] -> Int
-medianOfThree xs = do
-  sort xs !! 1
+medianOfThree xs = sort xs !! 1
