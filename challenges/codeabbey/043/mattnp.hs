@@ -13,4 +13,4 @@ readRandoms n = do
   readRandoms (n-1)
 
 diceRolling :: Float -> Int
-diceRolling x = (floor (x*6)) + 1
+diceRolling x = floor (x*6) + 1

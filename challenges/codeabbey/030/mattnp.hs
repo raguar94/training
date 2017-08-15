@@ -11,6 +11,6 @@ printList :: [String] -> IO ()
 printList [] = return ()
 printList [x] = putStr x
 printList (x:xs) = do
-  putStr $ x
+  putStr x
   putStr " "
   printList xs

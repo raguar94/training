@@ -13,5 +13,5 @@ readWords n = do
 countVowels :: String -> Int
 countVowels [] = 0
 countVowels (x:xs)
-  | elem x "aeiouy" = 1 + countVowels xs
+  | x `elem` "aeiouy" = 1 + countVowels xs
   | otherwise = countVowels xs
