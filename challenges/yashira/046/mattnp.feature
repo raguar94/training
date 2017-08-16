@@ -28,7 +28,7 @@ Característica: Resolver reto Este .txt......
   Escenario: Solución exitosa
     Dado que ya sé que no es codificación Uuencoding
     Cuando analizo de nuevo el archivo .txt
-    Y encuentro que la primera línea dice 'MIME-Version: 1.o'
+    Y encuentro que la primera línea dice 'MIME-Version: 1.0'
     Y consulto qué es MIME
     Y ecuentro que es otro tipo de codificación en Base64
     Y busco una herramienta en internet para decodificar este formato
