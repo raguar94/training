@@ -1,1 +1,2 @@
 https://blog.0x80.org/solving-overthewire/#level2
+https://raw.githubusercontent.com/livz/otw-vortex/master/Level%202/vortex2.c
