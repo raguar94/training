@@ -5,3 +5,4 @@ https://blogcompsci.wordpress.com/2014/11/02/bandit-level-20-%E2%86%92-level-21/
 http://sp4hack.blogspot.com.co/2014/01/overthewire-bandit-level-19-to-level-20.html
 http://hexjump.blogspot.com.co/2014/12/bandit-level-20-to-21.html
 http://codebluedev.blogspot.com.co/2015/07/overthewire-bandit-level-20.html
+https://infamoussyn.com/2013/11/08/overthewire-bandit-level-0-25-writeup-completed/#level19
