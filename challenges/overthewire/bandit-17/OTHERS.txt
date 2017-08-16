@@ -1,3 +1,4 @@
 http://sp4hack.blogspot.com.co/2014/01/overthewire-bandit-level-16-to-level-18.html
 https://hackmethod.com/overthewire-bandit-17/
 https://alexandervoidstar.wordpress.com/2016/03/05/overthewire-bandit-level-17/
+https://infamoussyn.com/2013/11/08/overthewire-bandit-level-0-25-writeup-completed/#level16
