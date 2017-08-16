@@ -9,12 +9,16 @@ main = do
   printIntList $ arrayCounters xs $ Prelude.replicate n 0
 
 arrayCounters :: [Int] -> [Int] -> [Int]
-arrayCounters [] ns = ns
-arrayCounters (x:xs) ns = arrayCounters xs $ toList $ update (x-1) (ns!!(x-1)+1) $ fromList ns
+arrayCounters xs ns
+    = foldl
+        (\ ns x ->
+           toList $ update (x - 1) (ns !! (x - 1) + 1) $ fromList ns)
+        ns
+        xs
 
 printIntList :: [Int] -> IO ()
 printIntList [] = return ()
 printIntList (x:xs) = do
-  putStr $ show $ x
+  putStr $ show x
   putStr " "
   printIntList xs
