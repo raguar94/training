@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/i
 https://raw.githubusercontent.com/gravoo/codeabbey/master/Linear%20Function%20.cpp
 https://github.com/JesseClarkND/codeabbey_in_C-NET/blob/master/Linear%20Function
 https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P010_LinearFunction.java
+https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Linear%20Function.rb
