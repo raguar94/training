@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/BubbleSort.cs
 https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P027_BubbleSort.java
 https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Bubble%20Sort.rb
+https://raw.githubusercontent.com/chriswood/codeabbey/master/caid27.lisp

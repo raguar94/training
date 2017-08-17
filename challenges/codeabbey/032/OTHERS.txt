@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com
 https://www.reddit.com/r/learnprogramming/comments/38o0gh/codeabbey_32_josephus_problemjava_review/
 https://raw.githubusercontent.com/Maximization/CodeAbbey/master/src/JosephusProblem.java
 https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Josephus%20Problem.rb
+https://raw.githubusercontent.com/chriswood/codeabbey/master/ca32.lisp

@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com
 https://github.com/JesseClarkND/codeabbey_in_C-NET/blob/master/Neumann's%20Random%20Generator
 https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P024_NuemannsRandomGenerator.java
 https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Neumanns%20Random%20Generator.rb
+https://raw.githubusercontent.com/chriswood/codeabbey/master/caid24.lisp
