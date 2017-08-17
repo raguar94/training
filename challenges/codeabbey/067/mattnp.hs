@@ -10,7 +10,7 @@ printResults :: [Int] -> [Int] -> IO ()
 printResults _ [] = return ()
 printResults fs (x:xs) = do
   case elemIndex x fs of
-    Just n -> putStr $ show $ n
+    Just n -> putStr $ show n
     Nothing -> putStr " "
   putStr " "
   printResults fs xs
