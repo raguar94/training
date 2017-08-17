@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/Hazmo/CodeAbbey/master/Problem%2046%20-%20Tic%
 https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Tic-Tac-Toe
 https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Problem%2046/Problem%2046.cpp
 https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id046-Tic_Tac_Toe.py
+https://raw.githubusercontent.com/igor-kutepov/codeabbey/master/src/main/java/com/kutepov/samples/codeabbey/TicTacToe.java

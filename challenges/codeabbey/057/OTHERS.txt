@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Pr
 https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id057-Smoothing_the_Weather.py
 https://raw.githubusercontent.com/gravoo/codeabbey/master/Smoothing%20the%20Weather%20.cpp
 https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Smoothing%20the%20Weather.rb
+https://raw.githubusercontent.com/KlaudioVito/CodeAbbey/master/SmoothingTheWeather.java

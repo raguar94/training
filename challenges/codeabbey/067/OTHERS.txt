@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/i
 https://raw.githubusercontent.com/gravoo/codeabbey/master/Fibonacci%20Sequence%20.cpp
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/FibonacciSequence.cs
 https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Fibonacci%20Sequence.rb
+https://raw.githubusercontent.com/KlaudioVito/CodeAbbey/master/FibonacciSequence.java

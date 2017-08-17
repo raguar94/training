@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Pr
 https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id050-Palindromes.py
 https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com/palindromes.py
 https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Palindromes.rb
+https://raw.githubusercontent.com/KlaudioVito/CodeAbbey/master/Palindromes.java

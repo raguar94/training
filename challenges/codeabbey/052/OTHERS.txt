@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/i
 https://raw.githubusercontent.com/gravoo/codeabbey/master/Pythagorean%20Theorem%20.cpp
 https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com/Pythagorean%20theorem.py
 https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Pythagorean%20Theorem.rb
+https://raw.githubusercontent.com/KlaudioVito/CodeAbbey/master/PythagoreanTheorem.java
