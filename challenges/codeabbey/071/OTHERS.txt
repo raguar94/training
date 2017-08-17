@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id071-Fibonacci_Divisibility_Advanced.py
+https://raw.githubusercontent.com/igor-kutepov/codeabbey/master/src/main/java/com/kutepov/samples/codeabbey/FibonacciDivisibilityAdvanced.java

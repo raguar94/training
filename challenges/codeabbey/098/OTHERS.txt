@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Azimuth%20at%20Treasure%20Island
+https://raw.githubusercontent.com/igor-kutepov/codeabbey/master/src/main/java/com/kutepov/samples/codeabbey/AzimuthAtTreasureIsland.java

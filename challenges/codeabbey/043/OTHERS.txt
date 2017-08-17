@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/gravoo/codeabbey/master/Dice%20Rolling%20.cpp
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/DiceRolling.cs
 https://github.com/marclerodrigues/ruby_exercises/blob/master/dice_rolling.rb
 https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem043/Program.cs
+https://raw.githubusercontent.com/AegisX/CodeAbbey/master/src/DiceRolling.java

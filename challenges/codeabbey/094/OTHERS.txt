@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id094-Fool's_Day_2014.py
+https://raw.githubusercontent.com/KlaudioVito/CodeAbbey/master/FoolsDay2014.java

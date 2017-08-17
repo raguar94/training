@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/i
 https://raw.githubusercontent.com/gravoo/codeabbey/master/Modular%20Calculator%20.cpp
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/ModularCalculator.cs
 https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P014_ModularCalculator.java
+https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Modular%20Calculator.rb
