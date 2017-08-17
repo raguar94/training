@@ -1,1 +1,3 @@
 https://github.com/joizel/ctf_writeup/blob/master/docs/web/LFI/[wechall]%20Warchall_Live%20LFI.rst
+http://researchport.tistory.com/26
+http://byd.dropsec.xyz/2016/07/23/Webchall-CTF-writeup2/
