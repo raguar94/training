@@ -5,3 +5,4 @@ https://quickgrid.wordpress.com/2015/02/16/codeabbey-volume-beginners-solutions-
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/Sum.cs
 https://github.com/marclerodrigues/ruby_exercises/blob/master/sum_of_two.rb
 https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem001/Program.cs
+https://raw.githubusercontent.com/jsenne/Code-Abbey-Solutions/master/001_Sum_A%2BB.js

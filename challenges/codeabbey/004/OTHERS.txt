@@ -5,3 +5,5 @@ https://quickgrid.wordpress.com/2015/02/16/codeabbey-volume-beginners-solutions-
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/MinOfTwo.cs
 https://github.com/marclerodrigues/ruby_exercises/blob/master/min_of_two.rb
 https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem004/Program.cs
+https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P004_MinOfTwo.java
+https://raw.githubusercontent.com/jsenne/Code-Abbey-Solutions/master/004_MinimumOfTwo.js

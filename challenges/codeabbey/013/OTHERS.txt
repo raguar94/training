@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/gravoo/codeabbey/master/Weighted%20sum%20of%20
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/WeightedSumOfDigits.cs
 https://github.com/marclerodrigues/ruby_exercises/blob/master/weighted_sum_of_digits.rb
 https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem013/Program.cs
+https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P013_WeightedSumOfDigits.java

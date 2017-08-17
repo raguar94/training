@@ -5,3 +5,4 @@ https://quickgrid.wordpress.com/2015/02/16/codeabbey-volume-beginners-solutions-
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/SumLoop.cs
 https://github.com/marclerodrigues/ruby_exercises/blob/master/sum_in_loop.rb
 https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem002/Program.cs
+https://raw.githubusercontent.com/jsenne/Code-Abbey-Solutions/master/002_SumInLoop.js
