@@ -5,3 +5,4 @@ https://quickgrid.wordpress.com/2015/02/16/codeabbey-volume-beginners-solutions-
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/Rounding.cs
 https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem006/Program.cs
 https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P006_Rounding.java
+https://raw.githubusercontent.com/jsenne/Code-Abbey-Solutions/master/006_Rounding
