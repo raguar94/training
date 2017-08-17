@@ -4,3 +4,4 @@ https://gist.github.com/anonymous/88e0ffecc308746e2e31
 https://quickgrid.wordpress.com/2015/02/16/codeabbey-volume-beginners-solutions-1-6-15/
 https://github.com/marclerodrigues/ruby_exercises/blob/master/sums_in_loops.rb
 https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem003/Program.cs
+https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P003_SumsInLoop.java

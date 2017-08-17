@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id009-Triangles.py
 https://raw.githubusercontent.com/gravoo/codeabbey/master/Triangles%20.cpp
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/Triangles.cs
+https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P009_Triangles.java

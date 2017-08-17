@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id025-Linear_Congruential_Generator.py
 https://raw.githubusercontent.com/gravoo/codeabbey/master/Linear%20Congruential%20Generator.cpp
 https://github.com/JesseClarkND/codeabbey_in_C-NET/blob/master/Linear%20Congruential%20Generator
+https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P025_LinearCongruentialGenerator.java

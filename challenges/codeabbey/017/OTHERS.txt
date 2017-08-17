@@ -2,4 +2,4 @@ https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/i
 https://raw.githubusercontent.com/gravoo/codeabbey/master/Array%20Checksum.cpp
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/ArrayChecksum.cs
 https://github.com/marclerodrigues/ruby_exercises/blob/master/array_checksum.rb
-
+https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P017_ArrayChecksum.java

@@ -3,3 +3,4 @@ https://quickgrid.wordpress.com/2015/02/16/codeabbey-volume-beginners-solutions-
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/MinOfThree.cs
 https://github.com/marclerodrigues/ruby_exercises/blob/master/min_of_three.rb
 https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem005/Program.cs
+https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P005_MinOfThree.java

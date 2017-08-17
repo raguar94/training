@@ -2,3 +2,4 @@ https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/i
 https://raw.githubusercontent.com/gravoo/codeabbey/master/%20Average%20of%20an%20array%20.cpp
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/AverageOfArray.cs
 https://github.com/marclerodrigues/ruby_exercises
+https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P016_AverageOfAnArray.java
