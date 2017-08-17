@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/AssumeACanOpener/CodeAbbey/master/vowel_count.
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/VowelCount.cs
 https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem020/Program.cs
 https://raw.githubusercontent.com/jsenne/Code-Abbey-Solutions/master/020_vowelCount.js
+https://raw.githubusercontent.com/chriswood/codeabbey/master/ca9.lisp

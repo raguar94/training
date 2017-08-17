@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/gravoo/codeabbey/master/Triangles%20.cpp
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/Triangles.cs
 https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P009_Triangles.java
 https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Triangles.rb
+https://raw.githubusercontent.com/chriswood/codeabbey/master/caid9.lisp

@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/i
 https://raw.githubusercontent.com/gravoo/codeabbey/master/Smoothing%20the%20Weather%20.cpp
 https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Smoothing%20the%20Weather.rb
 https://raw.githubusercontent.com/KlaudioVito/CodeAbbey/master/SmoothingTheWeather.java
+https://raw.githubusercontent.com/chriswood/codeabbey/master/ca57.lisp

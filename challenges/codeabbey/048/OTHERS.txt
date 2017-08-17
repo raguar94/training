@@ -8,3 +8,4 @@ http://codeevo.blogspot.com.co/2014/09/codeabbey-48.html
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/CollatzSequence.cs
 https://raw.githubusercontent.com/John-Russell/CodeAbbey/master/Collatz%20Sequence.rb
 https://raw.githubusercontent.com/KlaudioVito/CodeAbbey/master/CollatzSequence.java
+https://raw.githubusercontent.com/chriswood/codeabbey/master/caid48.lisp
