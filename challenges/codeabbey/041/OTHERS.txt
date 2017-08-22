@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/gravoo/codeabbey/master/Median%20of%20Three%20
 https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/MedianOfThree.cs
 https://github.com/marclerodrigues/ruby_exercises/blob/master/median_of_three.rb
 https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem041/Program.cs
+https://github.com/JFMurphy/Codeabbey-solutions/blob/master/Java/P041_MedianOfThree.java
