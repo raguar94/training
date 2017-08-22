@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/gravoo/codeabbey/master/Savings%20Calculator.c
 https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com/savings_calculator.py
 https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Savings%20Calculator
 https://raw.githubusercontent.com/KlaudioVito/CodeAbbey/master/SavingsCalculator.java
+https://raw.githubusercontent.com/vinitkantrod/codeabbey-Solutions-in-Python/master/40_saving_calculator.py
