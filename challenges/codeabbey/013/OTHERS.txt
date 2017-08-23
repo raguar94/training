@@ -5,3 +5,4 @@ https://github.com/marclerodrigues/ruby_exercises/blob/master/weighted_sum_of_di
 https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem013/Program.cs
 https://raw.githubusercontent.com/JFMurphy/Codeabbey-solutions/master/Java/P013_WeightedSumOfDigits.java
 https://raw.githubusercontent.com/chriswood/codeabbey/master/ca13.lisp
+https://raw.githubusercontent.com/vinitkantrod/codeabbey-Solutions-in-Python/master/14_weighted_sum_of_digits.py
