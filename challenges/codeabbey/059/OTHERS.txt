@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Bulls%20and%20Cows
 https://raw.githubusercontent.com/Maximization/CodeAbbey/master/src/BullsAndCows.java
 https://raw.githubusercontent.com/AndyCYao/codeabbey/master/CA_prob_59%20Bulls%20and%20Cows.py
+https://raw.githubusercontent.com/vinitkantrod/codeabbey-Solutions-in-Python/master/50_bulls_and_cows.py
