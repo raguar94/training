@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/sile/euler.rs/master/euler_02/src/problem064.rs
+https://github.com/smacke/project-euler/blob/master/python/64.py
