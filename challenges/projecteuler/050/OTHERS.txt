@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/nayuki/Project-Euler-solutions/master/java/p050.java
 https://raw.githubusercontent.com/sile/euler.rs/master/euler_01/src/problem050.rs
+https://raw.githubusercontent.com/smacke/project-euler/master/python/50.py
