@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/nayuki/Project-Euler-solutions/master/java/p016.java
 https://raw.githubusercontent.com/zsiciarz/euler.rs/master/src/solutions/problem16.rs
+https://raw.githubusercontent.com/smacke/project-euler/master/python/16.py
