@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/nayuki/Project-Euler-solutions/master/java/p020.java
 https://raw.githubusercontent.com/zsiciarz/euler.rs/master/src/solutions/problem20.rs
+https://raw.githubusercontent.com/smacke/project-euler/master/python/20.py
