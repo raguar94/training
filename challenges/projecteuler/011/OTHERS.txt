@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/nayuki/Project-Euler-solutions/master/java/p011.java
 https://raw.githubusercontent.com/sile/euler.rs/master/euler_00/src/problem011.rs
+https://raw.githubusercontent.com/smacke/project-euler/master/python/11.py
